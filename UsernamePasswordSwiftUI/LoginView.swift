@@ -37,7 +37,7 @@ struct LoginView: View {
 				
 			}.padding(.horizontal, 15)
 			
-		}.navigationBarTitle("Hello")
+		}.navigationBarTitle("Binding Basics")
 		
 	}
 	
